@@ -1,29 +1,25 @@
-hey add from california 
-{
-"records": [
-  {
-    "Name" : "Alfreds Futterkiste",
-    "City" : "Berlin",
-    "Country" : "Germany"
-  },
-  {
-    "Name" : "Berglunds snabbköp",
-    "City" : "Luleå",
-    "Country" : "Sweden"
-  },
-  {
-    "Name" : "Centro comercial Moctezuma",
-    "City" : "México D.F.",
-    "Country" : "Mexico"
-  },
-  {
-    "Name" : "Ernst Handel",
-    "City" : "Graz",
-    "Country" : "Austria"
-  },
-  {
-    "Name" : "FISSA Fabrica Inter. Salchichas S.A.",
-    "City" : "Madrid",
-    "Country" : "Spain"
-  },
-  {
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Our Company</title>
+  <link href="site.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div id="main">
+  <h1>Welcome to Our Company</h1>
+  <h2>Web Site Main Ingredients:</h2>
+
+  <p>Pages (HTML)</p>
+  <p>Style Sheets (CSS)</p>
+  <p>Computer Code (JavaScript)</p>
+  <p>Live Data (Files and Databases)</p>
+  <footer id="foot01"></footer>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
